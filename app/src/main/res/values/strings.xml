@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tubes</string>
+    <string name="profile_info_data">ALLumni</string>
+    <string name="pict1">pict1</string>
+    <string name="header">Login</string>
+    <string name="button_1">Login Alumni</string>
+    <string name="button_3">Login Alumni</string>
+</resources>
